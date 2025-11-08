@@ -1,6 +1,6 @@
 # 🤖 Cyberpunk AI Companion
 
-Frontend moderno para interagir com API de chatbot baseada em PDFs. Construído com **Vue 3 + Vite + TailwindCSS** com tema cyberpunk.
+Frontend para interagir com API de chatbot baseada em PDFs. Construído com **Vue 3 + Vite + TailwindCSS** com tema cyberpunk.
 
 ![Vue 3](https://img.shields.io/badge/Vue-3.4-4FC08D?style=flat-square&logo=vue.js)
 ![Vite](https://img.shields.io/badge/Vite-5.1-646CFF?style=flat-square&logo=vite)
@@ -289,8 +289,7 @@ Este projeto é open-source e está disponível sob a licença MIT.
 
 ## 👨‍💻 Autor
 
-Criado com 💜 por Claude Sonnet 4.5
-
+Guilherme Santana 
 ---
 
 **Divirta-se explorando seus PDFs com IA! 🚀🤖**
