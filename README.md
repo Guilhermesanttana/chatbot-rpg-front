@@ -6,6 +6,16 @@ Frontend para interagir com API de chatbot baseada em PDFs. Construído com **Vu
 ![Vite](https://img.shields.io/badge/Vite-5.1-646CFF?style=flat-square&logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=flat-square&logo=tailwind-css)
 
+## 📸 Preview
+
+<div align="center">
+  <img src="https://i.imgur.com/bVW5Jea.png" alt="Interface Principal" width="100%">
+  <p><em>Interface principal do chat com tema cyberpunk</em></p>
+  
+  <img src="https://i.imgur.com/ovNOZBD.png" alt="Visualização de Fontes" width="100%">
+  <p><em>Visualização de fontes e chunks recuperados dos PDFs</em></p>
+</div>
+
 ## 📋 Descrição
 
 Interface web completa e responsiva para conversar com um chatbot alimentado por IA que responde perguntas baseadas em documentos PDF. A aplicação se conecta a uma API FastAPI existente e oferece uma experiência de usuário fluida com tema cyberpunk dark.
